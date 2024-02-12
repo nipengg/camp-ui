@@ -1,6 +1,6 @@
 "use client"
 
-import { NAV_LINKS } from "@/constant/url"
+import { NAV_LINKS } from "@/constant"
 import Image from "next/image"
 import Link from "next/link"
 import Button from "../Button/Button"
